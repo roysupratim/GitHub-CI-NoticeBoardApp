@@ -11,7 +11,7 @@
 
 	<groupId>com.wkrzywiec.medium</groupId>
 	<artifactId>noticeboard</artifactId>
-	<version>0.0.12</version>
+	<version>0.0.13</version>
 	<name>noticeboard</name>
 	<description>Notice Board CRUD application</description>
 
